@@ -6,4 +6,5 @@ Certifique-se que o Chromedriver é compatível com a sua versão do Google Chro
 Descompacte o arquivo zipado e deixe a pasta num diretório de facil acesso. Adicione o diretório que o seu chromedriver.exe está nas variáveis de ambiente, no "Path" do Sistema.
 Exemplo: C:\Users\ricar_iy0h\Downloads\chromedriver-win64\chromedriver-win64 (dentro da váriavel "Path" do sistema). 
 Lembrando que essa instrução sobre a configuração das variáveis de ambiente só é válida quem usa Windows.
+Também certifique-se de incluir o caminho correto do diretório do seu chromedriver.exe no seu código.
 Abra o ambiente de desenvolvimento ou o editor de texto de sua preferência e execute o código :)
